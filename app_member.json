@@ -1,0 +1,3501 @@
+[{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bce9)",
+  "signup": {
+    "$date": "2010-06-02T00:21:35Z"
+  },
+  "points": 291770,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcea)",
+  "signup": {
+    "$date": "2008-03-28T07:43:53Z"
+  },
+  "points": 232650,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bceb)",
+  "signup": {
+    "$date": "2015-12-16T00:33:38Z"
+  },
+  "points": 233946,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcec)",
+  "signup": {
+    "$date": "2008-06-10T20:12:16Z"
+  },
+  "points": 385791,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bced)",
+  "signup": {
+    "$date": "2009-03-17T10:55:24Z"
+  },
+  "points": 722877,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcee)",
+  "signup": {
+    "$date": "2014-01-15T00:50:18Z"
+  },
+  "points": 806124,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcef)",
+  "signup": {
+    "$date": "2013-02-06T23:01:35Z"
+  },
+  "points": 676668,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bce8)",
+  "signup": {
+    "$date": "2010-07-31T14:17:27Z"
+  },
+  "points": 990061,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcf2)",
+  "signup": {
+    "$date": "2009-01-12T12:22:06Z"
+  },
+  "points": 871571,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcf0)",
+  "signup": {
+    "$date": "2009-07-27T04:41:39Z"
+  },
+  "points": 63099,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcf1)",
+  "signup": {
+    "$date": "2008-03-24T03:26:32Z"
+  },
+  "points": 248110,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcf6)",
+  "signup": {
+    "$date": "2016-02-12T15:41:47Z"
+  },
+  "points": 271155,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcf5)",
+  "signup": {
+    "$date": "2012-02-03T01:10:50Z"
+  },
+  "points": 763380,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcf4)",
+  "signup": {
+    "$date": "2013-08-02T12:13:13Z"
+  },
+  "points": 136048,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcf8)",
+  "signup": {
+    "$date": "2016-02-09T06:02:53Z"
+  },
+  "points": 947192,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcf9)",
+  "signup": {
+    "$date": "2009-06-29T04:48:31Z"
+  },
+  "points": 94135,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcfa)",
+  "signup": {
+    "$date": "2010-01-14T03:18:15Z"
+  },
+  "points": 97773,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcf7)",
+  "signup": {
+    "$date": "2011-10-08T10:43:27Z"
+  },
+  "points": 3753,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcfb)",
+  "signup": {
+    "$date": "2007-10-15T05:30:18Z"
+  },
+  "points": 759453,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcfc)",
+  "signup": {
+    "$date": "2015-01-18T15:34:35Z"
+  },
+  "points": 656304,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcfd)",
+  "signup": {
+    "$date": "2013-09-04T04:35:12Z"
+  },
+  "points": 30922,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcfe)",
+  "signup": {
+    "$date": "2011-03-22T10:47:56Z"
+  },
+  "points": 707029,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcff)",
+  "signup": {
+    "$date": "2013-05-03T04:46:28Z"
+  },
+  "points": 690231,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd00)",
+  "signup": {
+    "$date": "2015-08-05T03:49:09Z"
+  },
+  "points": 82642,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd01)",
+  "signup": {
+    "$date": "2009-07-02T07:07:55Z"
+  },
+  "points": 557062,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd02)",
+  "signup": {
+    "$date": "2010-11-18T15:53:51Z"
+  },
+  "points": 618463,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd03)",
+  "signup": {
+    "$date": "2014-01-22T02:30:30Z"
+  },
+  "points": 538439,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd04)",
+  "signup": {
+    "$date": "2013-01-06T01:52:42Z"
+  },
+  "points": 803218,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd05)",
+  "signup": {
+    "$date": "2008-12-02T01:53:57Z"
+  },
+  "points": 828095,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd06)",
+  "signup": {
+    "$date": "2008-03-06T18:53:34Z"
+  },
+  "points": 309644,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd07)",
+  "signup": {
+    "$date": "2015-04-19T10:55:25Z"
+  },
+  "points": 610421,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bcf3)",
+  "signup": {
+    "$date": "2014-01-03T21:41:11Z"
+  },
+  "points": 716307,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd08)",
+  "signup": {
+    "$date": "2008-01-27T18:58:15Z"
+  },
+  "points": 681881,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd09)",
+  "signup": {
+    "$date": "2012-02-20T19:00:47Z"
+  },
+  "points": 925503,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd0a)",
+  "signup": {
+    "$date": "2011-03-16T09:32:33Z"
+  },
+  "points": 723280,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd0b)",
+  "signup": {
+    "$date": "2010-08-17T19:43:14Z"
+  },
+  "points": 593682,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd0c)",
+  "signup": {
+    "$date": "2010-02-26T16:12:40Z"
+  },
+  "points": 912546,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd0d)",
+  "signup": {
+    "$date": "2015-09-17T11:10:17Z"
+  },
+  "points": 1535,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd0e)",
+  "signup": {
+    "$date": "2014-01-17T22:22:53Z"
+  },
+  "points": 166902,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd0f)",
+  "signup": {
+    "$date": "2009-06-09T21:49:00Z"
+  },
+  "points": 499020,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd11)",
+  "signup": {
+    "$date": "2013-10-13T14:04:44Z"
+  },
+  "points": 793653,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd10)",
+  "signup": {
+    "$date": "2015-09-04T15:38:46Z"
+  },
+  "points": 390367,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd12)",
+  "signup": {
+    "$date": "2012-03-26T08:02:07Z"
+  },
+  "points": 740251,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd13)",
+  "signup": {
+    "$date": "2008-01-11T20:30:29Z"
+  },
+  "points": 430997,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd14)",
+  "signup": {
+    "$date": "2013-12-01T18:40:05Z"
+  },
+  "points": 468279,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd15)",
+  "signup": {
+    "$date": "2014-04-24T23:20:34Z"
+  },
+  "points": 433506,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd16)",
+  "signup": {
+    "$date": "2012-08-30T10:29:11Z"
+  },
+  "points": 893089,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd17)",
+  "signup": {
+    "$date": "2008-01-22T14:41:50Z"
+  },
+  "points": 345161,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd18)",
+  "signup": {
+    "$date": "2015-01-26T14:25:10Z"
+  },
+  "points": 396091,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd19)",
+  "signup": {
+    "$date": "2015-10-18T17:32:45Z"
+  },
+  "points": 406467,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd1a)",
+  "signup": {
+    "$date": "2008-09-07T22:48:45Z"
+  },
+  "points": 347755,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd1b)",
+  "signup": {
+    "$date": "2015-04-10T09:01:25Z"
+  },
+  "points": 57958,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd1c)",
+  "signup": {
+    "$date": "2014-12-21T11:55:13Z"
+  },
+  "points": 928517,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd1d)",
+  "signup": {
+    "$date": "2014-12-21T23:04:31Z"
+  },
+  "points": 631963,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd1e)",
+  "signup": {
+    "$date": "2012-12-02T21:00:11Z"
+  },
+  "points": 625341,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd21)",
+  "signup": {
+    "$date": "2015-02-16T01:26:28Z"
+  },
+  "points": 2209,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd27)",
+  "signup": {
+    "$date": "2008-01-17T17:45:01Z"
+  },
+  "points": 616296,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd28)",
+  "signup": {
+    "$date": "2012-10-11T15:55:17Z"
+  },
+  "points": 806701,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd29)",
+  "signup": {
+    "$date": "2008-03-21T06:40:12Z"
+  },
+  "points": 856963,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd1f)",
+  "signup": {
+    "$date": "2013-08-24T14:07:18Z"
+  },
+  "points": 875467,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd2b)",
+  "signup": {
+    "$date": "2008-11-20T20:01:49Z"
+  },
+  "points": 397817,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd2c)",
+  "signup": {
+    "$date": "2015-10-26T22:37:38Z"
+  },
+  "points": 365149,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd2d)",
+  "signup": {
+    "$date": "2014-12-06T01:45:25Z"
+  },
+  "points": 831339,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd2e)",
+  "signup": {
+    "$date": "2010-02-16T21:43:14Z"
+  },
+  "points": 661747,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd24)",
+  "signup": {
+    "$date": "2016-05-02T00:10:11Z"
+  },
+  "points": 458397,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd2f)",
+  "signup": {
+    "$date": "2009-02-21T17:34:33Z"
+  },
+  "points": 792232,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd30)",
+  "signup": {
+    "$date": "2015-01-02T21:18:56Z"
+  },
+  "points": 230305,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd22)",
+  "signup": {
+    "$date": "2013-01-02T17:34:25Z"
+  },
+  "points": 669743,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd33)",
+  "signup": {
+    "$date": "2009-05-18T05:47:18Z"
+  },
+  "points": 489945,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd34)",
+  "signup": {
+    "$date": "2009-10-07T01:34:00Z"
+  },
+  "points": 723399,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd26)",
+  "signup": {
+    "$date": "2014-04-29T02:42:46Z"
+  },
+  "points": 899227,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd35)",
+  "signup": {
+    "$date": "2015-07-05T00:19:14Z"
+  },
+  "points": 990521,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd37)",
+  "signup": {
+    "$date": "2009-04-13T19:40:34Z"
+  },
+  "points": 712889,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd36)",
+  "signup": {
+    "$date": "2008-09-11T02:04:50Z"
+  },
+  "points": 221752,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd25)",
+  "signup": {
+    "$date": "2009-11-16T03:31:09Z"
+  },
+  "points": 652029,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd38)",
+  "signup": {
+    "$date": "2007-10-12T21:14:16Z"
+  },
+  "points": 963226,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd3a)",
+  "signup": {
+    "$date": "2013-07-07T11:11:20Z"
+  },
+  "points": 635652,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd3b)",
+  "signup": {
+    "$date": "2010-07-21T00:17:37Z"
+  },
+  "points": 447108,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd39)",
+  "signup": {
+    "$date": "2009-03-17T09:50:15Z"
+  },
+  "points": 593432,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd3c)",
+  "signup": {
+    "$date": "2012-01-26T07:42:27Z"
+  },
+  "points": 589257,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd3d)",
+  "signup": {
+    "$date": "2011-11-16T23:25:57Z"
+  },
+  "points": 749622,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd3e)",
+  "signup": {
+    "$date": "2009-01-21T12:47:48Z"
+  },
+  "points": 587661,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd3f)",
+  "signup": {
+    "$date": "2012-10-04T13:26:06Z"
+  },
+  "points": 262422,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd2a)",
+  "signup": {
+    "$date": "2012-07-17T16:34:54Z"
+  },
+  "points": 795755,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd20)",
+  "signup": {
+    "$date": "2009-11-29T11:19:57Z"
+  },
+  "points": 747667,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd32)",
+  "signup": {
+    "$date": "2010-03-30T18:33:03Z"
+  },
+  "points": 179809,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd31)",
+  "signup": {
+    "$date": "2013-05-18T05:20:55Z"
+  },
+  "points": 395989,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd40)",
+  "signup": {
+    "$date": "2015-07-16T12:46:42Z"
+  },
+  "points": 240924,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd41)",
+  "signup": {
+    "$date": "2009-02-14T22:09:25Z"
+  },
+  "points": 312379,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd42)",
+  "signup": {
+    "$date": "2014-06-08T19:14:38Z"
+  },
+  "points": 30989,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd43)",
+  "signup": {
+    "$date": "2012-09-13T19:45:26Z"
+  },
+  "points": 631341,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd44)",
+  "signup": {
+    "$date": "2008-11-14T12:40:20Z"
+  },
+  "points": 128797,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd45)",
+  "signup": {
+    "$date": "2007-08-21T15:29:18Z"
+  },
+  "points": 493545,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd46)",
+  "signup": {
+    "$date": "2009-07-13T20:49:50Z"
+  },
+  "points": 454418,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd47)",
+  "signup": {
+    "$date": "2009-04-12T00:17:20Z"
+  },
+  "points": 982101,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd48)",
+  "signup": {
+    "$date": "2016-04-09T20:06:21Z"
+  },
+  "points": 81913,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd49)",
+  "signup": {
+    "$date": "2013-08-02T07:46:38Z"
+  },
+  "points": 489109,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd4a)",
+  "signup": {
+    "$date": "2012-09-14T05:49:07Z"
+  },
+  "points": 657863,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd4b)",
+  "signup": {
+    "$date": "2011-05-28T17:31:14Z"
+  },
+  "points": 695479,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd4c)",
+  "signup": {
+    "$date": "2010-10-09T09:59:43Z"
+  },
+  "points": 166508,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd4d)",
+  "signup": {
+    "$date": "2013-10-30T10:02:34Z"
+  },
+  "points": 48857,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd4e)",
+  "signup": {
+    "$date": "2012-11-25T02:59:06Z"
+  },
+  "points": 470354,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd23)",
+  "signup": {
+    "$date": "2009-06-27T19:59:22Z"
+  },
+  "points": 568820,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd4f)",
+  "signup": {
+    "$date": "2009-10-23T22:24:19Z"
+  },
+  "points": 420605,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd50)",
+  "signup": {
+    "$date": "2015-05-15T22:34:16Z"
+  },
+  "points": 687296,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd52)",
+  "signup": {
+    "$date": "2013-02-11T13:14:30Z"
+  },
+  "points": 424467,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd51)",
+  "signup": {
+    "$date": "2013-12-26T03:49:25Z"
+  },
+  "points": 369105,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd54)",
+  "signup": {
+    "$date": "2016-05-03T11:59:44Z"
+  },
+  "points": 639710,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd53)",
+  "signup": {
+    "$date": "2014-02-23T16:18:53Z"
+  },
+  "points": 686809,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd55)",
+  "signup": {
+    "$date": "2014-06-26T15:47:02Z"
+  },
+  "points": 162308,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd57)",
+  "signup": {
+    "$date": "2015-01-21T10:12:22Z"
+  },
+  "points": 555863,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd5e)",
+  "signup": {
+    "$date": "2014-06-03T03:16:05Z"
+  },
+  "points": 3195,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd56)",
+  "signup": {
+    "$date": "2010-12-22T20:19:00Z"
+  },
+  "points": 42794,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd60)",
+  "signup": {
+    "$date": "2013-03-17T06:37:23Z"
+  },
+  "points": 412395,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd5b)",
+  "signup": {
+    "$date": "2009-02-03T08:37:47Z"
+  },
+  "points": 110871,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd62)",
+  "signup": {
+    "$date": "2016-06-01T21:59:11Z"
+  },
+  "points": 699536,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd58)",
+  "signup": {
+    "$date": "2010-11-04T19:54:28Z"
+  },
+  "points": 65618,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd64)",
+  "signup": {
+    "$date": "2016-06-13T15:32:36Z"
+  },
+  "points": 226317,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd59)",
+  "signup": {
+    "$date": "2016-05-30T11:01:39Z"
+  },
+  "points": 863164,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd66)",
+  "signup": {
+    "$date": "2014-08-24T02:14:06Z"
+  },
+  "points": 424544,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd5a)",
+  "signup": {
+    "$date": "2008-01-28T18:21:54Z"
+  },
+  "points": 701107,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd68)",
+  "signup": {
+    "$date": "2010-11-13T12:17:55Z"
+  },
+  "points": 429679,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd69)",
+  "signup": {
+    "$date": "2015-08-31T17:38:10Z"
+  },
+  "points": 597493,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd5c)",
+  "signup": {
+    "$date": "2013-07-01T19:18:35Z"
+  },
+  "points": 938986,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd5d)",
+  "signup": {
+    "$date": "2015-09-21T08:13:24Z"
+  },
+  "points": 616493,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd65)",
+  "signup": {
+    "$date": "2008-11-19T10:33:26Z"
+  },
+  "points": 275581,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd61)",
+  "signup": {
+    "$date": "2014-07-22T15:12:01Z"
+  },
+  "points": 781600,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd63)",
+  "signup": {
+    "$date": "2009-12-12T22:56:06Z"
+  },
+  "points": 737900,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd6b)",
+  "signup": {
+    "$date": "2011-04-26T16:59:12Z"
+  },
+  "points": 986500,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd67)",
+  "signup": {
+    "$date": "2014-04-21T02:05:57Z"
+  },
+  "points": 13945,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd6a)",
+  "signup": {
+    "$date": "2008-11-08T15:22:36Z"
+  },
+  "points": 989737,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd6d)",
+  "signup": {
+    "$date": "2014-05-15T08:44:14Z"
+  },
+  "points": 505215,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd6c)",
+  "signup": {
+    "$date": "2014-03-29T23:27:48Z"
+  },
+  "points": 898101,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd6f)",
+  "signup": {
+    "$date": "2016-03-23T20:49:33Z"
+  },
+  "points": 866892,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd6e)",
+  "signup": {
+    "$date": "2012-01-19T15:40:21Z"
+  },
+  "points": 75596,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd70)",
+  "signup": {
+    "$date": "2013-01-04T00:10:51Z"
+  },
+  "points": 871192,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd71)",
+  "signup": {
+    "$date": "2011-10-13T04:05:13Z"
+  },
+  "points": 641411,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd5f)",
+  "signup": {
+    "$date": "2012-04-30T21:23:24Z"
+  },
+  "points": 920944,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd73)",
+  "signup": {
+    "$date": "2013-02-26T03:26:06Z"
+  },
+  "points": 670758,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd74)",
+  "signup": {
+    "$date": "2009-10-19T17:26:22Z"
+  },
+  "points": 863960,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd72)",
+  "signup": {
+    "$date": "2013-11-15T04:11:25Z"
+  },
+  "points": 762750,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd76)",
+  "signup": {
+    "$date": "2013-02-02T20:44:01Z"
+  },
+  "points": 346802,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd77)",
+  "signup": {
+    "$date": "2013-03-23T05:19:04Z"
+  },
+  "points": 134446,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd78)",
+  "signup": {
+    "$date": "2016-05-09T23:11:36Z"
+  },
+  "points": 878103,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd75)",
+  "signup": {
+    "$date": "2014-02-16T23:32:52Z"
+  },
+  "points": 197496,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd7a)",
+  "signup": {
+    "$date": "2014-10-21T19:31:38Z"
+  },
+  "points": 643536,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd79)",
+  "signup": {
+    "$date": "2013-12-23T13:01:58Z"
+  },
+  "points": 848200,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd7b)",
+  "signup": {
+    "$date": "2014-12-28T11:44:14Z"
+  },
+  "points": 842268,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd7c)",
+  "signup": {
+    "$date": "2015-11-18T21:15:18Z"
+  },
+  "points": 969158,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd7d)",
+  "signup": {
+    "$date": "2015-10-31T19:22:11Z"
+  },
+  "points": 259611,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd7e)",
+  "signup": {
+    "$date": "2015-09-05T00:27:31Z"
+  },
+  "points": 216760,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd7f)",
+  "signup": {
+    "$date": "2011-07-24T18:11:46Z"
+  },
+  "points": 885738,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd80)",
+  "signup": {
+    "$date": "2010-08-23T11:01:12Z"
+  },
+  "points": 696795,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd81)",
+  "signup": {
+    "$date": "2008-12-22T11:31:42Z"
+  },
+  "points": 238681,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd82)",
+  "signup": {
+    "$date": "2011-02-12T04:39:11Z"
+  },
+  "points": 982458,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd83)",
+  "signup": {
+    "$date": "2012-05-20T15:57:14Z"
+  },
+  "points": 632430,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd84)",
+  "signup": {
+    "$date": "2014-11-19T18:38:50Z"
+  },
+  "points": 148068,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd85)",
+  "signup": {
+    "$date": "2007-11-01T18:48:41Z"
+  },
+  "points": 96361,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd86)",
+  "signup": {
+    "$date": "2010-01-06T19:16:55Z"
+  },
+  "points": 832545,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd87)",
+  "signup": {
+    "$date": "2014-07-10T01:49:44Z"
+  },
+  "points": 730767,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd88)",
+  "signup": {
+    "$date": "2012-03-29T06:58:11Z"
+  },
+  "points": 585660,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd89)",
+  "signup": {
+    "$date": "2011-01-06T17:42:21Z"
+  },
+  "points": 969914,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd8a)",
+  "signup": {
+    "$date": "2011-10-23T21:06:52Z"
+  },
+  "points": 780887,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd8c)",
+  "signup": {
+    "$date": "2015-01-21T15:45:51Z"
+  },
+  "points": 59958,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd8b)",
+  "signup": {
+    "$date": "2013-11-22T07:32:25Z"
+  },
+  "points": 38369,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd8d)",
+  "signup": {
+    "$date": "2014-12-14T08:35:37Z"
+  },
+  "points": 540810,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd8e)",
+  "signup": {
+    "$date": "2010-08-06T06:50:27Z"
+  },
+  "points": 984450,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd8f)",
+  "signup": {
+    "$date": "2011-06-22T18:05:53Z"
+  },
+  "points": 818873,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd90)",
+  "signup": {
+    "$date": "2016-06-05T03:21:50Z"
+  },
+  "points": 294645,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd92)",
+  "signup": {
+    "$date": "2015-07-19T12:55:53Z"
+  },
+  "points": 869923,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd91)",
+  "signup": {
+    "$date": "2016-02-18T03:06:01Z"
+  },
+  "points": 922183,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd93)",
+  "signup": {
+    "$date": "2013-06-12T07:39:49Z"
+  },
+  "points": 872021,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd95)",
+  "signup": {
+    "$date": "2009-05-15T16:13:44Z"
+  },
+  "points": 104200,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd94)",
+  "signup": {
+    "$date": "2016-01-22T17:02:29Z"
+  },
+  "points": 163873,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd96)",
+  "signup": {
+    "$date": "2014-02-08T21:20:31Z"
+  },
+  "points": 812807,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd97)",
+  "signup": {
+    "$date": "2010-05-01T09:07:48Z"
+  },
+  "points": 266624,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd98)",
+  "signup": {
+    "$date": "2010-05-21T21:22:21Z"
+  },
+  "points": 751300,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd9a)",
+  "signup": {
+    "$date": "2011-09-12T20:22:11Z"
+  },
+  "points": 36127,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd99)",
+  "signup": {
+    "$date": "2009-01-15T18:10:42Z"
+  },
+  "points": 71365,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd9c)",
+  "signup": {
+    "$date": "2015-12-02T23:44:21Z"
+  },
+  "points": 285621,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd9d)",
+  "signup": {
+    "$date": "2008-03-01T08:04:35Z"
+  },
+  "points": 971995,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd9e)",
+  "signup": {
+    "$date": "2009-10-06T06:35:25Z"
+  },
+  "points": 765898,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd9b)",
+  "signup": {
+    "$date": "2012-04-30T05:00:52Z"
+  },
+  "points": 392343,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bd9f)",
+  "signup": {
+    "$date": "2007-09-12T02:24:22Z"
+  },
+  "points": 73279,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bda0)",
+  "signup": {
+    "$date": "2015-03-17T21:16:58Z"
+  },
+  "points": 622920,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bda1)",
+  "signup": {
+    "$date": "2015-05-16T06:33:59Z"
+  },
+  "points": 149719,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bda2)",
+  "signup": {
+    "$date": "2015-04-20T20:42:51Z"
+  },
+  "points": 946028,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bda4)",
+  "signup": {
+    "$date": "2014-07-04T20:28:02Z"
+  },
+  "points": 119918,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bda3)",
+  "signup": {
+    "$date": "2008-04-11T07:26:20Z"
+  },
+  "points": 833029,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bda7)",
+  "signup": {
+    "$date": "2011-05-07T23:29:55Z"
+  },
+  "points": 566655,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bda6)",
+  "signup": {
+    "$date": "2010-09-06T16:31:21Z"
+  },
+  "points": 438329,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bda8)",
+  "signup": {
+    "$date": "2010-03-28T14:44:59Z"
+  },
+  "points": 78167,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bda9)",
+  "signup": {
+    "$date": "2011-06-30T21:13:57Z"
+  },
+  "points": 389139,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdab)",
+  "signup": {
+    "$date": "2007-09-06T01:34:36Z"
+  },
+  "points": 615240,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdaa)",
+  "signup": {
+    "$date": "2011-04-05T13:41:31Z"
+  },
+  "points": 874427,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bda5)",
+  "signup": {
+    "$date": "2013-06-23T13:35:12Z"
+  },
+  "points": 405948,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdac)",
+  "signup": {
+    "$date": "2009-07-11T12:31:41Z"
+  },
+  "points": 651569,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdad)",
+  "signup": {
+    "$date": "2015-06-27T20:23:41Z"
+  },
+  "points": 579143,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdaf)",
+  "signup": {
+    "$date": "2012-07-07T00:41:17Z"
+  },
+  "points": 256640,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdae)",
+  "signup": {
+    "$date": "2007-12-08T01:09:17Z"
+  },
+  "points": 766998,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdb0)",
+  "signup": {
+    "$date": "2011-10-07T12:59:02Z"
+  },
+  "points": 574275,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdb1)",
+  "signup": {
+    "$date": "2007-08-27T04:59:10Z"
+  },
+  "points": 369255,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdb2)",
+  "signup": {
+    "$date": "2009-03-03T01:59:30Z"
+  },
+  "points": 379359,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdb3)",
+  "signup": {
+    "$date": "2011-04-11T20:33:21Z"
+  },
+  "points": 272688,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdb4)",
+  "signup": {
+    "$date": "2008-10-10T21:36:38Z"
+  },
+  "points": 728681,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdb5)",
+  "signup": {
+    "$date": "2015-02-28T02:55:03Z"
+  },
+  "points": 976077,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdb6)",
+  "signup": {
+    "$date": "2013-12-11T22:05:03Z"
+  },
+  "points": 251179,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdb7)",
+  "signup": {
+    "$date": "2009-05-27T13:58:32Z"
+  },
+  "points": 751325,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdb9)",
+  "signup": {
+    "$date": "2007-09-02T09:30:47Z"
+  },
+  "points": 506896,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdb8)",
+  "signup": {
+    "$date": "2009-11-21T03:02:00Z"
+  },
+  "points": 69648,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdbb)",
+  "signup": {
+    "$date": "2007-11-29T14:22:23Z"
+  },
+  "points": 376356,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdba)",
+  "signup": {
+    "$date": "2008-12-13T18:06:12Z"
+  },
+  "points": 360405,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdbc)",
+  "signup": {
+    "$date": "2011-09-24T14:40:23Z"
+  },
+  "points": 884132,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdbd)",
+  "signup": {
+    "$date": "2008-09-08T03:09:33Z"
+  },
+  "points": 431873,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdbe)",
+  "signup": {
+    "$date": "2013-05-16T23:51:55Z"
+  },
+  "points": 757628,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdbf)",
+  "signup": {
+    "$date": "2009-07-06T15:44:21Z"
+  },
+  "points": 662313,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdc0)",
+  "signup": {
+    "$date": "2014-10-26T19:00:56Z"
+  },
+  "points": 322767,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdc1)",
+  "signup": {
+    "$date": "2008-09-07T07:44:32Z"
+  },
+  "points": 381118,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdc2)",
+  "signup": {
+    "$date": "2016-02-20T10:37:13Z"
+  },
+  "points": 434951,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdc3)",
+  "signup": {
+    "$date": "2008-10-25T01:14:33Z"
+  },
+  "points": 974434,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdc4)",
+  "signup": {
+    "$date": "2008-07-05T23:55:08Z"
+  },
+  "points": 584855,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdc5)",
+  "signup": {
+    "$date": "2012-02-16T21:52:42Z"
+  },
+  "points": 621457,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdc6)",
+  "signup": {
+    "$date": "2008-04-28T20:50:36Z"
+  },
+  "points": 21658,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdc7)",
+  "signup": {
+    "$date": "2012-09-19T02:01:37Z"
+  },
+  "points": 463658,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdc9)",
+  "signup": {
+    "$date": "2013-12-03T10:27:53Z"
+  },
+  "points": 470552,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdca)",
+  "signup": {
+    "$date": "2010-09-14T15:50:59Z"
+  },
+  "points": 961997,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdcc)",
+  "signup": {
+    "$date": "2009-08-20T08:31:36Z"
+  },
+  "points": 135557,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdc8)",
+  "signup": {
+    "$date": "2014-08-16T13:45:15Z"
+  },
+  "points": 413635,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdcd)",
+  "signup": {
+    "$date": "2016-01-07T19:06:27Z"
+  },
+  "points": 349618,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdce)",
+  "signup": {
+    "$date": "2009-04-26T14:25:14Z"
+  },
+  "points": 222279,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdcb)",
+  "signup": {
+    "$date": "2010-10-21T05:10:26Z"
+  },
+  "points": 990991,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdcf)",
+  "signup": {
+    "$date": "2011-09-01T07:51:53Z"
+  },
+  "points": 351815,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdd1)",
+  "signup": {
+    "$date": "2010-12-02T12:06:14Z"
+  },
+  "points": 247916,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdd2)",
+  "signup": {
+    "$date": "2013-02-07T22:32:14Z"
+  },
+  "points": 223665,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdd0)",
+  "signup": {
+    "$date": "2015-05-05T17:53:56Z"
+  },
+  "points": 9228,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdd3)",
+  "signup": {
+    "$date": "2015-03-23T13:50:08Z"
+  },
+  "points": 622643,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdd4)",
+  "signup": {
+    "$date": "2007-10-28T12:30:19Z"
+  },
+  "points": 132235,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdd5)",
+  "signup": {
+    "$date": "2009-03-02T01:03:41Z"
+  },
+  "points": 30897,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdd6)",
+  "signup": {
+    "$date": "2012-09-01T13:46:40Z"
+  },
+  "points": 952324,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdd7)",
+  "signup": {
+    "$date": "2012-02-22T04:31:58Z"
+  },
+  "points": 328877,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdd8)",
+  "signup": {
+    "$date": "2016-03-28T00:05:50Z"
+  },
+  "points": 834431,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdda)",
+  "signup": {
+    "$date": "2007-10-12T18:20:09Z"
+  },
+  "points": 717621,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bddb)",
+  "signup": {
+    "$date": "2014-01-12T00:54:41Z"
+  },
+  "points": 765182,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdd9)",
+  "signup": {
+    "$date": "2011-10-08T15:22:30Z"
+  },
+  "points": 487713,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bddc)",
+  "signup": {
+    "$date": "2009-07-09T14:28:02Z"
+  },
+  "points": 195694,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bddd)",
+  "signup": {
+    "$date": "2009-09-15T08:25:02Z"
+  },
+  "points": 658606,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bddf)",
+  "signup": {
+    "$date": "2015-12-13T08:37:41Z"
+  },
+  "points": 390513,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdde)",
+  "signup": {
+    "$date": "2010-03-03T14:14:03Z"
+  },
+  "points": 958595,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bde0)",
+  "signup": {
+    "$date": "2016-01-04T11:27:26Z"
+  },
+  "points": 666036,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bde1)",
+  "signup": {
+    "$date": "2009-12-21T21:15:44Z"
+  },
+  "points": 732488,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bde3)",
+  "signup": {
+    "$date": "2013-04-29T01:02:41Z"
+  },
+  "points": 925144,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bde4)",
+  "signup": {
+    "$date": "2015-07-19T06:35:46Z"
+  },
+  "points": 507093,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bde2)",
+  "signup": {
+    "$date": "2009-02-05T18:25:27Z"
+  },
+  "points": 75475,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bde5)",
+  "signup": {
+    "$date": "2010-07-12T23:30:30Z"
+  },
+  "points": 321994,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bde6)",
+  "signup": {
+    "$date": "2008-09-22T17:31:10Z"
+  },
+  "points": 944713,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bde7)",
+  "signup": {
+    "$date": "2013-06-25T15:33:17Z"
+  },
+  "points": 95961,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bde8)",
+  "signup": {
+    "$date": "2015-02-06T19:53:04Z"
+  },
+  "points": 473421,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bde9)",
+  "signup": {
+    "$date": "2012-11-09T20:24:35Z"
+  },
+  "points": 943998,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdea)",
+  "signup": {
+    "$date": "2012-03-21T00:52:56Z"
+  },
+  "points": 356495,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdeb)",
+  "signup": {
+    "$date": "2015-02-02T19:43:25Z"
+  },
+  "points": 308418,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdec)",
+  "signup": {
+    "$date": "2009-07-21T08:57:14Z"
+  },
+  "points": 543529,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bded)",
+  "signup": {
+    "$date": "2016-02-18T07:46:58Z"
+  },
+  "points": 234202,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdee)",
+  "signup": {
+    "$date": "2015-04-20T07:07:03Z"
+  },
+  "points": 154956,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdef)",
+  "signup": {
+    "$date": "2014-03-18T14:03:32Z"
+  },
+  "points": 759958,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdf0)",
+  "signup": {
+    "$date": "2007-11-19T21:39:26Z"
+  },
+  "points": 402605,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdf2)",
+  "signup": {
+    "$date": "2010-04-27T09:20:09Z"
+  },
+  "points": 963352,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdf1)",
+  "signup": {
+    "$date": "2008-05-05T22:08:20Z"
+  },
+  "points": 835644,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdfa)",
+  "signup": {
+    "$date": "2015-04-12T15:18:58Z"
+  },
+  "points": 902838,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdfb)",
+  "signup": {
+    "$date": "2014-11-29T16:11:29Z"
+  },
+  "points": 953553,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdfc)",
+  "signup": {
+    "$date": "2012-07-19T17:58:17Z"
+  },
+  "points": 244168,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdfd)",
+  "signup": {
+    "$date": "2016-05-30T02:14:39Z"
+  },
+  "points": 670882,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdf6)",
+  "signup": {
+    "$date": "2010-05-30T03:46:34Z"
+  },
+  "points": 124469,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdff)",
+  "signup": {
+    "$date": "2011-12-01T09:03:23Z"
+  },
+  "points": 328367,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be00)",
+  "signup": {
+    "$date": "2012-12-21T06:10:10Z"
+  },
+  "points": 318165,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdf4)",
+  "signup": {
+    "$date": "2013-01-23T21:29:46Z"
+  },
+  "points": 849914,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be01)",
+  "signup": {
+    "$date": "2014-12-24T22:34:20Z"
+  },
+  "points": 172031,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be02)",
+  "signup": {
+    "$date": "2012-10-14T07:19:03Z"
+  },
+  "points": 771170,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be03)",
+  "signup": {
+    "$date": "2016-06-03T13:44:20Z"
+  },
+  "points": 141010,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be04)",
+  "signup": {
+    "$date": "2009-08-16T15:04:33Z"
+  },
+  "points": 185426,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be05)",
+  "signup": {
+    "$date": "2012-04-02T10:13:46Z"
+  },
+  "points": 176036,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdf3)",
+  "signup": {
+    "$date": "2014-05-30T20:15:41Z"
+  },
+  "points": 482795,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdf5)",
+  "signup": {
+    "$date": "2009-01-24T00:03:05Z"
+  },
+  "points": 525809,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdf8)",
+  "signup": {
+    "$date": "2012-08-04T10:34:00Z"
+  },
+  "points": 992669,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdfe)",
+  "signup": {
+    "$date": "2013-02-09T15:51:34Z"
+  },
+  "points": 890340,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdf9)",
+  "signup": {
+    "$date": "2009-05-31T07:14:51Z"
+  },
+  "points": 677797,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bdf7)",
+  "signup": {
+    "$date": "2015-05-19T07:05:40Z"
+  },
+  "points": 773802,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be08)",
+  "signup": {
+    "$date": "2007-10-17T08:42:10Z"
+  },
+  "points": 877781,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be07)",
+  "signup": {
+    "$date": "2008-04-25T00:15:47Z"
+  },
+  "points": 184588,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be06)",
+  "signup": {
+    "$date": "2012-01-31T10:36:54Z"
+  },
+  "points": 762787,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be0b)",
+  "signup": {
+    "$date": "2012-03-29T10:52:25Z"
+  },
+  "points": 159451,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be09)",
+  "signup": {
+    "$date": "2010-12-22T13:49:24Z"
+  },
+  "points": 464551,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be0c)",
+  "signup": {
+    "$date": "2009-07-05T18:53:53Z"
+  },
+  "points": 512322,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be0e)",
+  "signup": {
+    "$date": "2009-04-14T05:28:51Z"
+  },
+  "points": 834139,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be0d)",
+  "signup": {
+    "$date": "2012-07-07T06:43:57Z"
+  },
+  "points": 647242,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be0f)",
+  "signup": {
+    "$date": "2015-09-02T00:21:00Z"
+  },
+  "points": 628900,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be10)",
+  "signup": {
+    "$date": "2011-06-11T11:22:05Z"
+  },
+  "points": 248131,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be0a)",
+  "signup": {
+    "$date": "2010-12-09T18:02:18Z"
+  },
+  "points": 11063,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be11)",
+  "signup": {
+    "$date": "2009-06-13T16:49:28Z"
+  },
+  "points": 543736,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be12)",
+  "signup": {
+    "$date": "2014-08-01T04:40:04Z"
+  },
+  "points": 614405,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be14)",
+  "signup": {
+    "$date": "2016-06-03T03:48:18Z"
+  },
+  "points": 238071,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be13)",
+  "signup": {
+    "$date": "2012-02-24T03:10:23Z"
+  },
+  "points": 570184,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be15)",
+  "signup": {
+    "$date": "2010-05-05T09:47:01Z"
+  },
+  "points": 177597,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be17)",
+  "signup": {
+    "$date": "2014-10-15T03:44:06Z"
+  },
+  "points": 452843,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be16)",
+  "signup": {
+    "$date": "2013-05-10T09:55:43Z"
+  },
+  "points": 798183,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be18)",
+  "signup": {
+    "$date": "2014-02-10T13:56:42Z"
+  },
+  "points": 459897,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be19)",
+  "signup": {
+    "$date": "2015-03-24T00:06:10Z"
+  },
+  "points": 431217,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be1a)",
+  "signup": {
+    "$date": "2010-10-15T19:00:27Z"
+  },
+  "points": 781246,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be1b)",
+  "signup": {
+    "$date": "2011-11-30T19:39:58Z"
+  },
+  "points": 700515,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be1c)",
+  "signup": {
+    "$date": "2016-02-13T01:38:15Z"
+  },
+  "points": 249190,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be1d)",
+  "signup": {
+    "$date": "2011-05-14T13:31:50Z"
+  },
+  "points": 358058,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be1e)",
+  "signup": {
+    "$date": "2007-12-13T21:24:27Z"
+  },
+  "points": 875461,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be1f)",
+  "signup": {
+    "$date": "2011-05-06T20:23:42Z"
+  },
+  "points": 334956,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be20)",
+  "signup": {
+    "$date": "2014-12-31T01:15:46Z"
+  },
+  "points": 650222,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be21)",
+  "signup": {
+    "$date": "2015-02-01T05:31:42Z"
+  },
+  "points": 138642,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be22)",
+  "signup": {
+    "$date": "2014-02-11T19:26:14Z"
+  },
+  "points": 923441,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be23)",
+  "signup": {
+    "$date": "2011-06-01T23:54:18Z"
+  },
+  "points": 672854,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be24)",
+  "signup": {
+    "$date": "2007-11-15T02:41:04Z"
+  },
+  "points": 757549,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be25)",
+  "signup": {
+    "$date": "2015-03-04T03:44:42Z"
+  },
+  "points": 261134,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be26)",
+  "signup": {
+    "$date": "2013-06-25T16:49:19Z"
+  },
+  "points": 382164,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be27)",
+  "signup": {
+    "$date": "2015-02-06T08:37:01Z"
+  },
+  "points": 977564,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be29)",
+  "signup": {
+    "$date": "2010-04-28T11:51:37Z"
+  },
+  "points": 647760,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be28)",
+  "signup": {
+    "$date": "2015-11-17T09:19:45Z"
+  },
+  "points": 76763,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be2b)",
+  "signup": {
+    "$date": "2014-06-02T13:20:17Z"
+  },
+  "points": 229141,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be2c)",
+  "signup": {
+    "$date": "2007-12-07T05:37:50Z"
+  },
+  "points": 981054,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be2d)",
+  "signup": {
+    "$date": "2013-08-29T00:38:57Z"
+  },
+  "points": 883035,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be2a)",
+  "signup": {
+    "$date": "2013-01-05T08:46:12Z"
+  },
+  "points": 376591,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be2e)",
+  "signup": {
+    "$date": "2016-01-18T02:41:00Z"
+  },
+  "points": 829708,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be30)",
+  "signup": {
+    "$date": "2008-09-30T22:57:37Z"
+  },
+  "points": 364670,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be31)",
+  "signup": {
+    "$date": "2010-04-16T03:04:14Z"
+  },
+  "points": 761437,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be2f)",
+  "signup": {
+    "$date": "2009-07-24T17:40:53Z"
+  },
+  "points": 101068,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be32)",
+  "signup": {
+    "$date": "2008-09-05T01:33:28Z"
+  },
+  "points": 471900,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be33)",
+  "signup": {
+    "$date": "2011-05-18T07:05:37Z"
+  },
+  "points": 506678,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be35)",
+  "signup": {
+    "$date": "2014-04-04T14:26:45Z"
+  },
+  "points": 409252,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be34)",
+  "signup": {
+    "$date": "2010-11-10T17:23:13Z"
+  },
+  "points": 699482,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be36)",
+  "signup": {
+    "$date": "2010-08-22T00:23:53Z"
+  },
+  "points": 808138,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be37)",
+  "signup": {
+    "$date": "2013-11-03T11:04:49Z"
+  },
+  "points": 79429,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be38)",
+  "signup": {
+    "$date": "2016-05-16T17:29:53Z"
+  },
+  "points": 939840,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be39)",
+  "signup": {
+    "$date": "2008-11-14T00:53:21Z"
+  },
+  "points": 436063,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be3a)",
+  "signup": {
+    "$date": "2011-12-07T07:45:09Z"
+  },
+  "points": 243018,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be3b)",
+  "signup": {
+    "$date": "2014-01-11T02:22:33Z"
+  },
+  "points": 467793,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be3e)",
+  "signup": {
+    "$date": "2011-09-01T06:09:15Z"
+  },
+  "points": 892089,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be3d)",
+  "signup": {
+    "$date": "2014-12-20T11:48:13Z"
+  },
+  "points": 811769,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be3f)",
+  "signup": {
+    "$date": "2015-05-30T01:10:02Z"
+  },
+  "points": 344016,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be3c)",
+  "signup": {
+    "$date": "2008-09-29T02:47:16Z"
+  },
+  "points": 39173,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be40)",
+  "signup": {
+    "$date": "2008-08-21T18:43:43Z"
+  },
+  "points": 249307,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be42)",
+  "signup": {
+    "$date": "2010-01-24T21:42:02Z"
+  },
+  "points": 791098,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be41)",
+  "signup": {
+    "$date": "2015-03-16T00:56:57Z"
+  },
+  "points": 795966,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be43)",
+  "signup": {
+    "$date": "2009-10-20T07:06:44Z"
+  },
+  "points": 917788,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be44)",
+  "signup": {
+    "$date": "2015-04-10T06:24:22Z"
+  },
+  "points": 872534,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be45)",
+  "signup": {
+    "$date": "2013-12-01T09:43:55Z"
+  },
+  "points": 39378,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be46)",
+  "signup": {
+    "$date": "2010-04-14T21:05:31Z"
+  },
+  "points": 929662,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be47)",
+  "signup": {
+    "$date": "2010-11-28T21:46:28Z"
+  },
+  "points": 646092,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be48)",
+  "signup": {
+    "$date": "2014-07-28T00:39:40Z"
+  },
+  "points": 643392,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be49)",
+  "signup": {
+    "$date": "2012-01-01T19:30:38Z"
+  },
+  "points": 135989,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be4b)",
+  "signup": {
+    "$date": "2009-12-03T23:01:49Z"
+  },
+  "points": 54892,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be4c)",
+  "signup": {
+    "$date": "2016-01-25T07:36:11Z"
+  },
+  "points": 787892,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be4a)",
+  "signup": {
+    "$date": "2011-03-12T12:29:16Z"
+  },
+  "points": 997483,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be4e)",
+  "signup": {
+    "$date": "2011-01-11T07:32:55Z"
+  },
+  "points": 355504,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be4d)",
+  "signup": {
+    "$date": "2008-06-18T20:38:56Z"
+  },
+  "points": 943150,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be4f)",
+  "signup": {
+    "$date": "2014-09-28T16:33:25Z"
+  },
+  "points": 991715,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be50)",
+  "signup": {
+    "$date": "2007-09-07T12:34:52Z"
+  },
+  "points": 411165,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be51)",
+  "signup": {
+    "$date": "2015-06-13T12:41:51Z"
+  },
+  "points": 240595,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be52)",
+  "signup": {
+    "$date": "2010-06-25T21:38:41Z"
+  },
+  "points": 396465,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be53)",
+  "signup": {
+    "$date": "2010-10-10T17:43:46Z"
+  },
+  "points": 61753,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be54)",
+  "signup": {
+    "$date": "2015-08-22T01:06:05Z"
+  },
+  "points": 438695,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be55)",
+  "signup": {
+    "$date": "2012-05-05T05:42:43Z"
+  },
+  "points": 385282,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be56)",
+  "signup": {
+    "$date": "2007-11-06T04:50:51Z"
+  },
+  "points": 687975,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be58)",
+  "signup": {
+    "$date": "2009-03-03T02:48:32Z"
+  },
+  "points": 305549,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be57)",
+  "signup": {
+    "$date": "2010-04-09T07:46:25Z"
+  },
+  "points": 194885,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be5b)",
+  "signup": {
+    "$date": "2011-07-17T21:59:12Z"
+  },
+  "points": 757996,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be59)",
+  "signup": {
+    "$date": "2012-04-09T04:58:08Z"
+  },
+  "points": 563174,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be5a)",
+  "signup": {
+    "$date": "2014-07-30T23:26:58Z"
+  },
+  "points": 726096,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be5c)",
+  "signup": {
+    "$date": "2013-01-11T00:51:57Z"
+  },
+  "points": 534305,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be5d)",
+  "signup": {
+    "$date": "2011-05-17T14:20:55Z"
+  },
+  "points": 251120,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be5f)",
+  "signup": {
+    "$date": "2009-06-14T13:54:25Z"
+  },
+  "points": 855142,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be5e)",
+  "signup": {
+    "$date": "2015-04-16T12:13:31Z"
+  },
+  "points": 401045,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be60)",
+  "signup": {
+    "$date": "2011-02-19T07:36:18Z"
+  },
+  "points": 473619,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be61)",
+  "signup": {
+    "$date": "2014-06-12T00:01:15Z"
+  },
+  "points": 544583,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be62)",
+  "signup": {
+    "$date": "2016-04-07T19:04:21Z"
+  },
+  "points": 174104,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be63)",
+  "signup": {
+    "$date": "2014-09-20T21:55:10Z"
+  },
+  "points": 914719,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be65)",
+  "signup": {
+    "$date": "2009-02-11T05:35:48Z"
+  },
+  "points": 845814,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be66)",
+  "signup": {
+    "$date": "2015-01-13T11:59:56Z"
+  },
+  "points": 106875,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be64)",
+  "signup": {
+    "$date": "2011-04-22T02:46:54Z"
+  },
+  "points": 211852,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be67)",
+  "signup": {
+    "$date": "2010-10-05T12:00:44Z"
+  },
+  "points": 374444,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be68)",
+  "signup": {
+    "$date": "2015-12-14T14:24:15Z"
+  },
+  "points": 491173,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be69)",
+  "signup": {
+    "$date": "2009-04-30T06:32:54Z"
+  },
+  "points": 222286,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be6a)",
+  "signup": {
+    "$date": "2010-05-15T13:26:23Z"
+  },
+  "points": 937382,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be6b)",
+  "signup": {
+    "$date": "2009-07-21T14:21:29Z"
+  },
+  "points": 662852,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be6c)",
+  "signup": {
+    "$date": "2008-02-15T18:20:22Z"
+  },
+  "points": 227380,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be6d)",
+  "signup": {
+    "$date": "2013-06-13T14:35:06Z"
+  },
+  "points": 689038,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be6e)",
+  "signup": {
+    "$date": "2012-03-20T23:21:06Z"
+  },
+  "points": 732806,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be6f)",
+  "signup": {
+    "$date": "2013-05-06T22:10:12Z"
+  },
+  "points": 942027,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be73)",
+  "signup": {
+    "$date": "2012-08-22T05:41:10Z"
+  },
+  "points": 183085,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be78)",
+  "signup": {
+    "$date": "2014-10-02T14:32:47Z"
+  },
+  "points": 584372,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be79)",
+  "signup": {
+    "$date": "2010-10-08T17:48:57Z"
+  },
+  "points": 85416,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be7a)",
+  "signup": {
+    "$date": "2008-11-05T23:09:39Z"
+  },
+  "points": 988696,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be77)",
+  "signup": {
+    "$date": "2007-10-24T03:52:03Z"
+  },
+  "points": 681521,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be7b)",
+  "signup": {
+    "$date": "2014-04-23T13:01:21Z"
+  },
+  "points": 683738,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be7c)",
+  "signup": {
+    "$date": "2011-08-02T20:48:50Z"
+  },
+  "points": 653922,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be76)",
+  "signup": {
+    "$date": "2015-03-13T18:38:10Z"
+  },
+  "points": 450643,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be74)",
+  "signup": {
+    "$date": "2009-09-09T10:26:27Z"
+  },
+  "points": 951913,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be71)",
+  "signup": {
+    "$date": "2013-06-10T17:32:42Z"
+  },
+  "points": 198260,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be70)",
+  "signup": {
+    "$date": "2008-09-06T10:03:12Z"
+  },
+  "points": 238308,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be72)",
+  "signup": {
+    "$date": "2007-09-14T06:51:31Z"
+  },
+  "points": 130779,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be75)",
+  "signup": {
+    "$date": "2012-11-27T15:15:55Z"
+  },
+  "points": 326294,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be7e)",
+  "signup": {
+    "$date": "2013-06-11T04:00:40Z"
+  },
+  "points": 442804,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be7d)",
+  "signup": {
+    "$date": "2016-01-26T18:45:06Z"
+  },
+  "points": 509469,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be7f)",
+  "signup": {
+    "$date": "2012-12-21T21:38:57Z"
+  },
+  "points": 255837,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be80)",
+  "signup": {
+    "$date": "2012-12-02T18:18:19Z"
+  },
+  "points": 538136,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be81)",
+  "signup": {
+    "$date": "2012-12-01T08:29:50Z"
+  },
+  "points": 589388,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be82)",
+  "signup": {
+    "$date": "2009-09-15T21:44:08Z"
+  },
+  "points": 482809,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be83)",
+  "signup": {
+    "$date": "2009-06-10T12:06:19Z"
+  },
+  "points": 254541,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be84)",
+  "signup": {
+    "$date": "2011-05-14T08:31:31Z"
+  },
+  "points": 350715,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be85)",
+  "signup": {
+    "$date": "2015-01-22T14:51:13Z"
+  },
+  "points": 906443,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be89)",
+  "signup": {
+    "$date": "2011-08-05T05:34:30Z"
+  },
+  "points": 57948,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be8a)",
+  "signup": {
+    "$date": "2014-09-22T20:54:31Z"
+  },
+  "points": 729650,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be8b)",
+  "signup": {
+    "$date": "2014-09-29T21:19:44Z"
+  },
+  "points": 905780,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be8c)",
+  "signup": {
+    "$date": "2013-09-19T14:53:38Z"
+  },
+  "points": 594121,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be8d)",
+  "signup": {
+    "$date": "2007-10-11T02:44:22Z"
+  },
+  "points": 976950,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be88)",
+  "signup": {
+    "$date": "2011-09-18T18:30:46Z"
+  },
+  "points": 931585,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be8e)",
+  "signup": {
+    "$date": "2013-11-30T18:01:56Z"
+  },
+  "points": 487401,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be8f)",
+  "signup": {
+    "$date": "2010-04-10T10:11:15Z"
+  },
+  "points": 493220,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be86)",
+  "signup": {
+    "$date": "2011-10-05T04:26:21Z"
+  },
+  "points": 96704,
+  "name": "Timothy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be87)",
+  "signup": {
+    "$date": "2008-12-13T10:28:35Z"
+  },
+  "points": 244299,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be91)",
+  "signup": {
+    "$date": "2013-10-09T09:40:39Z"
+  },
+  "points": 984374,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be90)",
+  "signup": {
+    "$date": "2013-10-07T07:59:41Z"
+  },
+  "points": 610565,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be92)",
+  "signup": {
+    "$date": "2014-02-09T21:48:06Z"
+  },
+  "points": 956915,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be93)",
+  "signup": {
+    "$date": "2013-09-14T21:09:18Z"
+  },
+  "points": 276583,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be95)",
+  "signup": {
+    "$date": "2011-11-19T17:58:47Z"
+  },
+  "points": 943035,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be96)",
+  "signup": {
+    "$date": "2011-04-16T03:48:50Z"
+  },
+  "points": 651732,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be97)",
+  "signup": {
+    "$date": "2016-05-15T09:09:16Z"
+  },
+  "points": 317829,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be94)",
+  "signup": {
+    "$date": "2007-08-28T22:01:31Z"
+  },
+  "points": 893062,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be99)",
+  "signup": {
+    "$date": "2015-09-13T05:02:34Z"
+  },
+  "points": 881575,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be98)",
+  "signup": {
+    "$date": "2008-05-04T15:45:39Z"
+  },
+  "points": 493550,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be9a)",
+  "signup": {
+    "$date": "2015-03-12T22:22:26Z"
+  },
+  "points": 592715,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be9b)",
+  "signup": {
+    "$date": "2015-11-29T12:22:37Z"
+  },
+  "points": 640267,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be9c)",
+  "signup": {
+    "$date": "2010-05-08T03:48:50Z"
+  },
+  "points": 413219,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be9d)",
+  "signup": {
+    "$date": "2015-01-31T09:12:11Z"
+  },
+  "points": 854001,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be9e)",
+  "signup": {
+    "$date": "2015-12-12T10:02:42Z"
+  },
+  "points": 654699,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0be9f)",
+  "signup": {
+    "$date": "2008-08-03T15:45:28Z"
+  },
+  "points": 50395,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bea0)",
+  "signup": {
+    "$date": "2016-03-30T17:39:17Z"
+  },
+  "points": 904596,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bea1)",
+  "signup": {
+    "$date": "2014-08-21T07:33:20Z"
+  },
+  "points": 563219,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bea3)",
+  "signup": {
+    "$date": "2010-05-04T18:48:56Z"
+  },
+  "points": 528221,
+  "name": "Frank"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bea2)",
+  "signup": {
+    "$date": "2008-09-11T07:28:32Z"
+  },
+  "points": 403417,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bea5)",
+  "signup": {
+    "$date": "2010-05-28T00:07:27Z"
+  },
+  "points": 643157,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bea4)",
+  "signup": {
+    "$date": "2009-12-30T00:35:24Z"
+  },
+  "points": 452068,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bea6)",
+  "signup": {
+    "$date": "2009-03-23T21:00:39Z"
+  },
+  "points": 345581,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bea7)",
+  "signup": {
+    "$date": "2009-08-21T03:42:12Z"
+  },
+  "points": 230528,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beab)",
+  "signup": {
+    "$date": "2009-12-10T22:52:29Z"
+  },
+  "points": 67700,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beb0)",
+  "signup": {
+    "$date": "2009-12-19T14:40:57Z"
+  },
+  "points": 423686,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beb1)",
+  "signup": {
+    "$date": "2009-04-16T22:34:40Z"
+  },
+  "points": 675392,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beb2)",
+  "signup": {
+    "$date": "2014-03-25T16:07:15Z"
+  },
+  "points": 475255,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beb3)",
+  "signup": {
+    "$date": "2016-05-17T13:17:20Z"
+  },
+  "points": 532487,
+  "name": "Hal"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beb4)",
+  "signup": {
+    "$date": "2009-04-15T05:43:02Z"
+  },
+  "points": 25698,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beb5)",
+  "signup": {
+    "$date": "2008-03-04T05:43:31Z"
+  },
+  "points": 418669,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beb6)",
+  "signup": {
+    "$date": "2015-01-20T04:23:12Z"
+  },
+  "points": 615180,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beb7)",
+  "signup": {
+    "$date": "2014-06-10T02:07:58Z"
+  },
+  "points": 224882,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beb8)",
+  "signup": {
+    "$date": "2013-01-12T21:06:44Z"
+  },
+  "points": 714971,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beb9)",
+  "signup": {
+    "$date": "2012-09-20T20:38:09Z"
+  },
+  "points": 482477,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beba)",
+  "signup": {
+    "$date": "2012-10-22T20:28:12Z"
+  },
+  "points": 741870,
+  "name": "Romeo"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bead)",
+  "signup": {
+    "$date": "2008-12-16T16:54:23Z"
+  },
+  "points": 965590,
+  "name": "Victor"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bebb)",
+  "signup": {
+    "$date": "2011-09-17T17:33:35Z"
+  },
+  "points": 940595,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bebc)",
+  "signup": {
+    "$date": "2013-02-19T18:57:35Z"
+  },
+  "points": 943260,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bebd)",
+  "signup": {
+    "$date": "2009-06-01T01:39:03Z"
+  },
+  "points": 405786,
+  "name": "Yasmine"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beac)",
+  "signup": {
+    "$date": "2010-03-13T05:18:00Z"
+  },
+  "points": 294670,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beae)",
+  "signup": {
+    "$date": "2016-04-06T16:49:12Z"
+  },
+  "points": 147692,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beaf)",
+  "signup": {
+    "$date": "2009-10-09T13:46:27Z"
+  },
+  "points": 777439,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bec1)",
+  "signup": {
+    "$date": "2015-02-04T08:02:17Z"
+  },
+  "points": 873706,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bec2)",
+  "signup": {
+    "$date": "2011-11-11T13:55:00Z"
+  },
+  "points": 560465,
+  "name": "Carla"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beaa)",
+  "signup": {
+    "$date": "2010-06-21T11:55:58Z"
+  },
+  "points": 975058,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bea9)",
+  "signup": {
+    "$date": "2009-06-13T14:50:09Z"
+  },
+  "points": 673292,
+  "name": "Samantha"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bebe)",
+  "signup": {
+    "$date": "2015-10-19T02:16:55Z"
+  },
+  "points": 651279,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bebf)",
+  "signup": {
+    "$date": "2009-09-22T00:09:46Z"
+  },
+  "points": 227695,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bec0)",
+  "signup": {
+    "$date": "2014-02-18T13:23:11Z"
+  },
+  "points": 540640,
+  "name": "Peter"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bea8)",
+  "signup": {
+    "$date": "2010-09-17T17:45:41Z"
+  },
+  "points": 52252,
+  "name": "Quinn"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bec3)",
+  "signup": {
+    "$date": "2008-03-14T10:22:06Z"
+  },
+  "points": 38229,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bec4)",
+  "signup": {
+    "$date": "2013-10-19T00:35:30Z"
+  },
+  "points": 569593,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bec5)",
+  "signup": {
+    "$date": "2012-07-27T10:36:37Z"
+  },
+  "points": 355632,
+  "name": "Alice"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bec6)",
+  "signup": {
+    "$date": "2013-10-05T16:21:52Z"
+  },
+  "points": 470356,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bec7)",
+  "signup": {
+    "$date": "2010-07-08T13:43:03Z"
+  },
+  "points": 753089,
+  "name": "Ursula"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bec8)",
+  "signup": {
+    "$date": "2012-06-27T05:47:21Z"
+  },
+  "points": 131456,
+  "name": "Indira"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bec9)",
+  "signup": {
+    "$date": "2014-05-26T05:17:36Z"
+  },
+  "points": 919394,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beca)",
+  "signup": {
+    "$date": "2015-10-20T12:13:34Z"
+  },
+  "points": 484759,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0becc)",
+  "signup": {
+    "$date": "2013-11-19T02:39:43Z"
+  },
+  "points": 5282,
+  "name": "Bob"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0becb)",
+  "signup": {
+    "$date": "2011-10-29T20:41:10Z"
+  },
+  "points": 86713,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bed4)",
+  "signup": {
+    "$date": "2014-12-18T07:52:52Z"
+  },
+  "points": 134232,
+  "name": "Ophelia"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bed5)",
+  "signup": {
+    "$date": "2013-01-27T01:06:42Z"
+  },
+  "points": 933126,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bed6)",
+  "signup": {
+    "$date": "2010-03-08T07:06:29Z"
+  },
+  "points": 63929,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bed7)",
+  "signup": {
+    "$date": "2012-07-19T03:13:05Z"
+  },
+  "points": 657768,
+  "name": "Kathy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bed8)",
+  "signup": {
+    "$date": "2010-09-11T17:57:28Z"
+  },
+  "points": 482784,
+  "name": "Mary"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bed9)",
+  "signup": {
+    "$date": "2013-12-19T10:41:37Z"
+  },
+  "points": 818931,
+  "name": "Erica"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0beda)",
+  "signup": {
+    "$date": "2009-03-22T09:43:02Z"
+  },
+  "points": 722352,
+  "name": "Wendy"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0becf)",
+  "signup": {
+    "$date": "2008-04-23T12:02:26Z"
+  },
+  "points": 407654,
+  "name": "John"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bedb)",
+  "signup": {
+    "$date": "2014-09-29T22:17:54Z"
+  },
+  "points": 26148,
+  "name": "Dan"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0becd)",
+  "signup": {
+    "$date": "2007-09-12T06:34:10Z"
+  },
+  "points": 746480,
+  "name": "Nick"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bece)",
+  "signup": {
+    "$date": "2009-11-15T20:24:22Z"
+  },
+  "points": 930675,
+  "name": "Zeb"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bed1)",
+  "signup": {
+    "$date": "2008-01-14T07:09:52Z"
+  },
+  "points": 235432,
+  "name": "Xavier"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bed2)",
+  "signup": {
+    "$date": "2012-06-25T13:03:07Z"
+  },
+  "points": 441633,
+  "name": "Luke"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bed0)",
+  "signup": {
+    "$date": "2013-04-26T02:22:22Z"
+  },
+  "points": 892829,
+  "name": "Gertrude"
+},{
+  "_id": "ObjectId(57605d5dc3d5a2429db0bed3)",
+  "signup": {
+    "$date": "2016-03-27T08:51:40Z"
+  },
+  "points": 877521,
+  "name": "Ophelia"
+}]
