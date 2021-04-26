@@ -2,7 +2,7 @@ from django import forms
 
 
 class CustomDateTime(forms.DateTimeInput):
-    input_type = 'datetime-local'
+    input_type = 'date' # datetime-local
 
 
 class RegisterReport(forms.Form):
